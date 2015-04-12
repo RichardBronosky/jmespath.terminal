@@ -50,6 +50,7 @@ You can also pipe an input JSON document into the
 
 
 To quit the program, press ``F5``.
+To save the current expression so that it is output on quit, press ``Ctrl + p``. (Multiple expressions can be saved and each is output on its own line.
 You can also clear the current expression by specifying
 ``Ctrl + ]``.
 
